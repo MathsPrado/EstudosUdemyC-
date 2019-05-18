@@ -92,20 +92,52 @@ namespace AulaUdemy
             //Console.WriteLine(primeiraCompra.Sacar(500, primeiraCompra.Saldo));
             //Console.ReadKey();
 
-            var primeiraCompra = new ContaCorrente();
-            var segundaCompra = new ContaCorrente();
 
-            Console.WriteLine("total de conta corrente "+ ContaCorrente.totalContaCorrente);
-            Console.WriteLine("total de conta na segunda instancia " + ContaCorrente.totalContaCorrente);
+            //var primeiraCompra = new ContaCorrente();
+            //var segundaCompra = new ContaCorrente();
+
+            //Console.WriteLine("total de conta corrente "+ ContaCorrente.totalContaCorrente);
+            //Console.WriteLine("total de conta na segunda instancia " + ContaCorrente.totalContaCorrente);
+
+
+            //Variaveis nullas ----------------------------------------------------------------------
+
+            //double? x = null;
+            //double? y = 10.0;
+
+            //Console.WriteLine(x.GetValueOrDefault());
+            //Console.WriteLine(y.GetValueOrDefault());
+
+            //Console.WriteLine(x.HasValue);
+            //Console.WriteLine(y.HasValue);
+
+            //if (x.HasValue)
+            //    Console.WriteLine(x.Value);
+            //else
+            //    Console.WriteLine("X is NULL");
+            //if (y.HasValue)
+            //    Console.WriteLine(y.Value);
+            //else
+            //    Console.WriteLine("Y e NULL");
+
+
+            //double? a = null;
+            //double? b = 10;
+
+            //double c = a ?? 1;
+            //double d = b ?? 1;
+
+
+
+            //Console.WriteLine(c);
+            //Console.WriteLine(d);
+
+            //------------------------------------------------------------------------------------------
+            //-----------------------------------------Vetores------------------------------------------
 
             Console.ReadKey();
         }
-
-        //static int Metodo()
-        //{
-        //    return a;
-        //}
-
+        
       
 
 
