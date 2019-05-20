@@ -100,7 +100,10 @@ namespace AulaUdemy
             //Console.WriteLine("total de conta na segunda instancia " + ContaCorrente.totalContaCorrente);
 
 
-            //Variaveis nullas ----------------------------------------------------------------------
+
+            //-------------------------------------------------------------------------------------------------------------
+            //----------------------Variaveis nullas ----------------------------------------------------------------------
+
 
             //double? x = null;
             //double? y = 10.0;
@@ -134,6 +137,74 @@ namespace AulaUdemy
 
             //------------------------------------------------------------------------------------------
             //-----------------------------------------Vetores------------------------------------------
+
+            //int n = int.Parse(Console.ReadLine());
+
+            //double[] vect = new double[10];
+
+            //for(int i = 0; i<n; i++)
+            //{
+            //    int b = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            //    vect[i] = b;
+            //}
+
+            //for (int i = 0; i < n; i++)
+            //{
+            //    Console.WriteLine(vect[i]);
+            //}
+            //double sum = 0.0;
+            //for(int i =0; i<n; i++)
+            //{
+            //    sum += vect[i];
+            //}
+
+            //Console.WriteLine("total:"+sum);
+
+            //int n = int.Parse(Console.ReadLine());
+            //ContaCorrente[] vect = new ContaCorrente[n];
+
+            //int s1 = Calculatorcs.Sum(2, 3);
+            //int s2 = Calculatorcs.Sum(2, 3, 3);
+
+            //Console.WriteLine(s1);
+            //Console.WriteLine(s2);
+
+            //Modificadores Ref and Out--------------------------------------------------------
+
+            //int a = 10;
+            //Calculatorcs.Triple(ref a);        //ref a variavel tem que estar inicializada
+            //Console.WriteLine(a);
+
+            //------------------------------------------
+            // A varievel passada como Parâmetro out não precisa ter sido inicializada
+
+            //int a =10;
+            //int triple;
+            //Calculatorcs.TripleOut(a, out triple);     
+            //Console.WriteLine(triple);
+
+
+
+            //-----------------------------------------------------------------------------------
+            //-----------Laço for each------------------------------------------------------
+
+
+            //string[] vect = new string[] { "Matheus", "Prado", "Lima" };
+            //foreach(string obj in vect)
+            //{
+            //    Console.WriteLine(obj);
+            //}
+
+            //Console.WriteLine("-----------------------------");
+
+            //for (int j=0; j< vect.Length; j++)
+            //{
+            //    Console.WriteLine(vect[j]);
+            //}
+
+            //-----------------------------------------------------------------------------------
+            //------------------LISTAS----------------------------------------------------------
+
 
             Console.ReadKey();
         }

@@ -12,3 +12,10 @@ C:\Users\Matheus Prado\Desktop\Udemy\EstudosUdemyC-\AulaUdemy\AulaUdemy\obj\Debu
 C:\Users\Matheus Prado\Desktop\Udemy\EstudosUdemyC-\AulaUdemy\AulaUdemy\obj\Debug\AulaUdemy.csproj.CoreCompileInputs.cache
 C:\Users\Matheus Prado\Desktop\Udemy\EstudosUdemyC-\AulaUdemy\AulaUdemy\obj\Debug\AulaUdemy.exe
 C:\Users\Matheus Prado\Desktop\Udemy\EstudosUdemyC-\AulaUdemy\AulaUdemy\obj\Debug\AulaUdemy.pdb
+C:\Users\Matheus\Documents\EstudosUdemyC-\AulaUdemy\AulaUdemy\bin\Debug\AulaUdemy.exe.config
+C:\Users\Matheus\Documents\EstudosUdemyC-\AulaUdemy\AulaUdemy\bin\Debug\AulaUdemy.exe
+C:\Users\Matheus\Documents\EstudosUdemyC-\AulaUdemy\AulaUdemy\bin\Debug\AulaUdemy.pdb
+C:\Users\Matheus\Documents\EstudosUdemyC-\AulaUdemy\AulaUdemy\obj\Debug\AulaUdemy.csprojAssemblyReference.cache
+C:\Users\Matheus\Documents\EstudosUdemyC-\AulaUdemy\AulaUdemy\obj\Debug\AulaUdemy.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\EstudosUdemyC-\AulaUdemy\AulaUdemy\obj\Debug\AulaUdemy.exe
+C:\Users\Matheus\Documents\EstudosUdemyC-\AulaUdemy\AulaUdemy\obj\Debug\AulaUdemy.pdb
