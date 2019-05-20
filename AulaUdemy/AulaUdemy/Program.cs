@@ -206,16 +206,20 @@ namespace AulaUdemy
             //-----------------------------------------------------------------------------------
             //------------------LISTAS----------------------------------------------------------
 
-            List<string> list2 = new List<string> { "Maria", "Alex" };
+            List<string> lis = new List<string> { "Maria", "Alex" };
             List<string> list = new List<string>();
 
             list.Add("Matheus");
             list.Add("Prado");
-            list.Add("Lima");
+            list.Add("Gustavo");
+            list.Add("Limeira");
+            list.Insert(2, "Lima");
+            list.Add("Mathias");
+            list.Add("Kaua");
+            list.Add("Xbox");
+            list.Add("Fifa");
 
-            list.Insert(2, "de");
-
-            foreach(string obj in list)
+            foreach (string obj in list)
             {
                 Console.WriteLine(obj);
             }
@@ -223,10 +227,60 @@ namespace AulaUdemy
             string s1 = list.Find(Calculatorcs.Test);
             Console.WriteLine("Fisrt 'L': "+ s1);
 
+
+            string s2 = list.Find(x => x[0] == 'M');
+            Console.WriteLine("Fisrt 'M': " + s2);
+
+
+            string s3 = list.FindLast(x => x[0] == 'M');
+            Console.WriteLine("Last 'M': " + s3);
+
+
+            int s4 = list.FindIndex(x => x[0] == 'M');
+            Console.WriteLine(" first Index  'M': " + s4);
+
+
+            int s5 = list.FindLastIndex(x => x[0] == 'M');
+            Console.WriteLine(" Last Index  'M': " + s5);
+
             Console.WriteLine("List count: "+ list.Count);
 
 
+            List<string> list2 = list.FindAll(x => x.Length == 5);
+            Console.WriteLine("----------------------");
+            foreach(string obj in list2)
+            {
+                Console.WriteLine(obj);
+            }
+
+
+
+            list.Remove("Prado");
+            Console.WriteLine("------------------------------");
+            foreach(string obj in list)
+            {
+                Console.WriteLine(obj);
+            }
+
+
+            list.RemoveAll(x => x[0] == 'M');
+            Console.WriteLine("------------------------------");
+            foreach (string obj in list)
+            {
+                Console.WriteLine(obj);
+            }
+
+
+            list.RemoveRange(2,2);
+            Console.WriteLine("------------------------------");
+            foreach (string obj in list)
+            {
+                Console.WriteLine(obj);
+            }
+
+
             Console.ReadKey();
+          
         }
         
       
