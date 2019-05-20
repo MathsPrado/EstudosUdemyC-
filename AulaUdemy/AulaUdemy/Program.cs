@@ -223,7 +223,7 @@ namespace AulaUdemy
             string s1 = list.Find(Calculatorcs.Test);
             Console.WriteLine("Fisrt 'L': "+ s1);
 
-            Console.WriteLine("List count:"+ list.Count);
+            Console.WriteLine("List count: "+ list.Count);
 
 
             Console.ReadKey();
