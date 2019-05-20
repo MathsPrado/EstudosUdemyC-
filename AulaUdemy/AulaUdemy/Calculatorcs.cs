@@ -32,5 +32,10 @@ namespace AulaUdemy
         public static void TripleOut( int origin, out int result) { 
             result = origin * 3;
         }
+
+        public static bool Test(string a)
+        {
+            return a[0] == 'L';
+        }
     }
 }

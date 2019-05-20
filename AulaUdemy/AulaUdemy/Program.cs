@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Globalization;
+using System.Collections.Generic;
 
 namespace AulaUdemy
 {
@@ -204,6 +205,25 @@ namespace AulaUdemy
 
             //-----------------------------------------------------------------------------------
             //------------------LISTAS----------------------------------------------------------
+
+            List<string> list2 = new List<string> { "Maria", "Alex" };
+            List<string> list = new List<string>();
+
+            list.Add("Matheus");
+            list.Add("Prado");
+            list.Add("Lima");
+
+            list.Insert(2, "de");
+
+            foreach(string obj in list)
+            {
+                Console.WriteLine(obj);
+            }
+
+            string s1 = list.Find(Calculatorcs.Test);
+            Console.WriteLine("Fisrt 'L': "+ s1);
+
+            Console.WriteLine("List count:"+ list.Count);
 
 
             Console.ReadKey();
