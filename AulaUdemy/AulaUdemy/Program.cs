@@ -206,77 +206,218 @@ namespace AulaUdemy
             //-----------------------------------------------------------------------------------
             //------------------LISTAS----------------------------------------------------------
 
-            List<string> lis = new List<string> { "Maria", "Alex" };
-            List<string> list = new List<string>();
+            //List<string> lis = new List<string> { "Maria", "Alex" };
+            //List<string> list = new List<string>();
 
-            list.Add("Matheus");
-            list.Add("Prado");
-            list.Add("Gustavo");
-            list.Add("Limeira");
-            list.Insert(2, "Lima");
-            list.Add("Mathias");
-            list.Add("Kaua");
-            list.Add("Xbox");
-            list.Add("Fifa");
+            //list.Add("Matheus");
+            //list.Add("Prado");
+            //list.Add("Gustavo");
+            //list.Add("Limeira");
+            //list.Insert(2, "Lima");
+            //list.Add("Mathias");
+            //list.Add("Kaua");
+            //list.Add("Xbox");
+            //list.Add("Fifa");
 
-            foreach (string obj in list)
+            //foreach (string obj in list)
+            //{
+            //}
+
+            //string s1 = list.Find(Calculatorcs.Test);
+            //Console.WriteLine("Fisrt 'L': "+ s1);
+
+
+            //string s2 = list.Find(x => x[0] == 'M');
+            //Console.WriteLine("Fisrt 'M': " + s2);
+
+
+            //string s3 = list.FindLast(x => x[0] == 'M');
+            //Console.WriteLine("Last 'M': " + s3);
+
+
+            //int s4 = list.FindIndex(x => x[0] == 'M');
+            //Console.WriteLine(" first Index  'M': " + s4);
+
+
+            //int s5 = list.FindLastIndex(x => x[0] == 'M');
+            //Console.WriteLine(" Last Index  'M': " + s5);
+
+            //Console.WriteLine("List count: "+ list.Count);
+
+
+            //List<string> list2 = list.FindAll(x => x.Length == 5);
+            //Console.WriteLine("----------------------");
+            //foreach(string obj in list2)
+            //{
+            //    Console.WriteLine(obj);
+            //}
+
+
+
+            //list.Remove("Prado");
+            //Console.WriteLine("------------------------------");
+            //foreach(string obj in list)
+            //{
+            //    Console.WriteLine(obj);
+            //}
+
+
+            //list.RemoveAll(x => x[0] == 'M');
+            //Console.WriteLine("------------------------------");
+            //foreach (string obj in list)
+            //{
+            //    Console.WriteLine(obj);
+            //}
+
+
+            //list.RemoveRange(2,2);
+            //Console.WriteLine("------------------------------");
+            //foreach (string obj in list)
+            //{
+            //    Console.WriteLine(obj);
+            //}
+
+
+            //-------------------------------------------------------------------------------------------
+            // Exercicio List----------------------------------------------------------------------------
+
+
+            //Console.Write("Quantos employees quer registrar? ");
+
+            //int n = int.Parse(Console.ReadLine());
+
+
+
+            //List<Employee> list = new List<Employee>();
+
+
+
+            //for (int i = 1; i <= n; i++)
+            //{
+
+            //    Console.WriteLine("Employee #" + i + ":");
+
+            //    Console.Write("Id: ");
+
+            //    int id = int.Parse(Console.ReadLine());
+
+            //    Console.Write("Name: ");
+
+            //    string name = Console.ReadLine();
+
+            //    Console.Write("Salario: ");
+
+            //    double salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            //    list.Add(new Employee(id, name, salario));
+
+            //    Console.WriteLine();
+
+            //}
+
+
+
+            //Console.Write("Entre com o id do Employee que deseja aumentar o salario: ");
+
+            //int searchId = int.Parse(Console.ReadLine());
+
+
+
+            //Employee emp = list.Find(x => x.Id == searchId);
+
+            //if (emp != null)
+            //{
+
+            //    Console.Write("Entre com a porcentagem: ");
+
+            //    double percentage = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            //    emp.IncreaseSalary(percentage);
+
+            //}
+
+            //else
+            //{
+
+            //    Console.WriteLine("Id 404 kk");
+
+            //}
+
+
+
+            //Console.WriteLine();
+
+            //Console.WriteLine("Updated list of employees:");
+
+            //foreach (Employee obj in list)
+            //{
+
+            //    Console.WriteLine(obj);
+
+            //}
+
+
+            //-----------------------------------------------------------------------------------------------
+            //---------Conjunto------------------------------------------------------------------------------
+
+
+            HashSet<int> A = new HashSet<int>();
+            HashSet<int> B = new HashSet<int>();
+
+            A.Add(3);
+            A.Add(5);
+            A.Add(8);
+            A.Add(9);
+
+            B.Add(3);
+            B.Add(4);
+            B.Add(5);
+            B.Add(10);
+
+            B.Add(10);
+            B.Remove(10);
+
+            foreach (int a in A)
             {
-                Console.WriteLine(obj);
+                Console.WriteLine(a);
+            }
+            Console.WriteLine("--------------------------");
+            foreach (int b in B)
+            {
+                Console.WriteLine(b);
             }
 
-            string s1 = list.Find(Calculatorcs.Test);
-            Console.WriteLine("Fisrt 'L': "+ s1);
+            Console.WriteLine("Digite um valor inteiro");
+            int N = int.Parse(Console.ReadLine());
 
-
-            string s2 = list.Find(x => x[0] == 'M');
-            Console.WriteLine("Fisrt 'M': " + s2);
-
-
-            string s3 = list.FindLast(x => x[0] == 'M');
-            Console.WriteLine("Last 'M': " + s3);
-
-
-            int s4 = list.FindIndex(x => x[0] == 'M');
-            Console.WriteLine(" first Index  'M': " + s4);
-
-
-            int s5 = list.FindLastIndex(x => x[0] == 'M');
-            Console.WriteLine(" Last Index  'M': " + s5);
-
-            Console.WriteLine("List count: "+ list.Count);
-
-
-            List<string> list2 = list.FindAll(x => x.Length == 5);
-            Console.WriteLine("----------------------");
-            foreach(string obj in list2)
+            if (B.Contains(N))
             {
-                Console.WriteLine(obj);
+                Console.WriteLine(N + ", Pertence ao conjunto B");
             }
-
-
-
-            list.Remove("Prado");
-            Console.WriteLine("------------------------------");
-            foreach(string obj in list)
+            else
             {
-                Console.WriteLine(obj);
+                Console.WriteLine(N + ", Nao pertence ao conjunto B");
             }
+            Console.WriteLine("------------------");
 
-
-            list.RemoveAll(x => x[0] == 'M');
-            Console.WriteLine("------------------------------");
-            foreach (string obj in list)
+            //Remove de A todos os numeros iguais no B
+            A.ExceptWith(B);
+            foreach (int a in A)
             {
-                Console.WriteLine(obj);
+                Console.WriteLine(a);
             }
+            Console.WriteLine("--------------------------");
 
 
-            list.RemoveRange(2,2);
-            Console.WriteLine("------------------------------");
-            foreach (string obj in list)
+            // faz a união de A com B (Lembrando que em conjuntos não se repete numeros); 
+            A.UnionWith(B);
+            foreach (int a in A)
             {
-                Console.WriteLine(obj);
+                Console.WriteLine(a);
             }
+            Console.WriteLine("--------------------------");
+            //-----------------------------------------------------------------------------------------------
+
 
 
             Console.ReadKey();
