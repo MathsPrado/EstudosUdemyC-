@@ -1,0 +1,11 @@
+C:\Users\Matheus\source\repos\composition3-csharp\composition3-csharp\obj\Debug\netcoreapp2.1\composition3-csharp.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\composition3-csharp\composition3-csharp\obj\Debug\netcoreapp2.1\composition3-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\composition3-csharp\composition3-csharp\obj\Debug\netcoreapp2.1\composition3-csharp.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\composition3-csharp\composition3-csharp\obj\Debug\netcoreapp2.1\composition3-csharp.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\composition3-csharp\composition3-csharp\bin\Debug\netcoreapp2.1\composition3-csharp.deps.json
+C:\Users\Matheus\source\repos\composition3-csharp\composition3-csharp\bin\Debug\netcoreapp2.1\composition3-csharp.runtimeconfig.json
+C:\Users\Matheus\source\repos\composition3-csharp\composition3-csharp\bin\Debug\netcoreapp2.1\composition3-csharp.runtimeconfig.dev.json
+C:\Users\Matheus\source\repos\composition3-csharp\composition3-csharp\bin\Debug\netcoreapp2.1\composition3-csharp.dll
+C:\Users\Matheus\source\repos\composition3-csharp\composition3-csharp\bin\Debug\netcoreapp2.1\composition3-csharp.pdb
+C:\Users\Matheus\source\repos\composition3-csharp\composition3-csharp\obj\Debug\netcoreapp2.1\composition3-csharp.dll
+C:\Users\Matheus\source\repos\composition3-csharp\composition3-csharp\obj\Debug\netcoreapp2.1\composition3-csharp.pdb
