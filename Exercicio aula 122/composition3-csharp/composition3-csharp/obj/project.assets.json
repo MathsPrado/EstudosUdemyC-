@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matheus\\source\\repos\\composition3-csharp\\composition3-csharp\\composition3-csharp.csproj",
+      "projectUniqueName": "C:\\Users\\Matheus\\Documents\\EstudosUdemyC-\\Exercicio aula 122\\composition3-csharp\\composition3-csharp\\composition3-csharp.csproj",
       "projectName": "composition3-csharp",
-      "projectPath": "C:\\Users\\Matheus\\source\\repos\\composition3-csharp\\composition3-csharp\\composition3-csharp.csproj",
+      "projectPath": "C:\\Users\\Matheus\\Documents\\EstudosUdemyC-\\Exercicio aula 122\\composition3-csharp\\composition3-csharp\\composition3-csharp.csproj",
       "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matheus\\source\\repos\\composition3-csharp\\composition3-csharp\\obj\\",
+      "outputPath": "C:\\Users\\Matheus\\Documents\\EstudosUdemyC-\\Exercicio aula 122\\composition3-csharp\\composition3-csharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

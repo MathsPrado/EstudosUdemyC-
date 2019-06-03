@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matheus\\Documents\\EstudosUdemyC-\\Exercicio StringBuilder Aula 121\\ExercicioAula121\\ExercicioAula121\\ExercicioAula121.csproj",
-      "projectName": "ExercicioAula121",
-      "projectPath": "C:\\Users\\Matheus\\Documents\\EstudosUdemyC-\\Exercicio StringBuilder Aula 121\\ExercicioAula121\\ExercicioAula121\\ExercicioAula121.csproj",
+      "projectUniqueName": "C:\\Users\\Matheus\\source\\repos\\UpcastingAndDowncasting\\UpcastingAndDowncasting\\UpcastingAndDowncasting.csproj",
+      "projectName": "UpcastingAndDowncasting",
+      "projectPath": "C:\\Users\\Matheus\\source\\repos\\UpcastingAndDowncasting\\UpcastingAndDowncasting\\UpcastingAndDowncasting.csproj",
       "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matheus\\Documents\\EstudosUdemyC-\\Exercicio StringBuilder Aula 121\\ExercicioAula121\\ExercicioAula121\\obj\\",
+      "outputPath": "C:\\Users\\Matheus\\source\\repos\\UpcastingAndDowncasting\\UpcastingAndDowncasting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
