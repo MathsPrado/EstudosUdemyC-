@@ -1,0 +1,11 @@
+C:\Users\Matheus\source\repos\ExercicioPolimorfismoAula130\ExercicioPolimorfismoAula130\obj\Debug\netcoreapp2.1\ExercicioPolimorfismoAula130.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\ExercicioPolimorfismoAula130\ExercicioPolimorfismoAula130\obj\Debug\netcoreapp2.1\ExercicioPolimorfismoAula130.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\ExercicioPolimorfismoAula130\ExercicioPolimorfismoAula130\obj\Debug\netcoreapp2.1\ExercicioPolimorfismoAula130.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\ExercicioPolimorfismoAula130\ExercicioPolimorfismoAula130\obj\Debug\netcoreapp2.1\ExercicioPolimorfismoAula130.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\ExercicioPolimorfismoAula130\ExercicioPolimorfismoAula130\bin\Debug\netcoreapp2.1\ExercicioPolimorfismoAula130.deps.json
+C:\Users\Matheus\source\repos\ExercicioPolimorfismoAula130\ExercicioPolimorfismoAula130\bin\Debug\netcoreapp2.1\ExercicioPolimorfismoAula130.runtimeconfig.json
+C:\Users\Matheus\source\repos\ExercicioPolimorfismoAula130\ExercicioPolimorfismoAula130\bin\Debug\netcoreapp2.1\ExercicioPolimorfismoAula130.runtimeconfig.dev.json
+C:\Users\Matheus\source\repos\ExercicioPolimorfismoAula130\ExercicioPolimorfismoAula130\bin\Debug\netcoreapp2.1\ExercicioPolimorfismoAula130.dll
+C:\Users\Matheus\source\repos\ExercicioPolimorfismoAula130\ExercicioPolimorfismoAula130\bin\Debug\netcoreapp2.1\ExercicioPolimorfismoAula130.pdb
+C:\Users\Matheus\source\repos\ExercicioPolimorfismoAula130\ExercicioPolimorfismoAula130\obj\Debug\netcoreapp2.1\ExercicioPolimorfismoAula130.dll
+C:\Users\Matheus\source\repos\ExercicioPolimorfismoAula130\ExercicioPolimorfismoAula130\obj\Debug\netcoreapp2.1\ExercicioPolimorfismoAula130.pdb
