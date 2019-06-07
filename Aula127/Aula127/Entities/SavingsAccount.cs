@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Aula127.Entities
+﻿namespace Aula127.Entities
 {
     class SavingsAccount : Account
     {
@@ -23,7 +19,7 @@ namespace Aula127.Entities
             Balance += Balance * InterestRate;
         }
 
-        public override void Withdraw(double amount)
+        public sealed override void Withdraw(double amount)   //impedi que sobresqueva novamente esse metodo, dependendo da regra de negocio e importante (Para segurança), ajuda na Performance;
         {
             base.Withdraw(amount);
             Balance -= 2.0;

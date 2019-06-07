@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Aula127.Entities
+﻿namespace Aula127.Entities
 {
     class Account
     {
