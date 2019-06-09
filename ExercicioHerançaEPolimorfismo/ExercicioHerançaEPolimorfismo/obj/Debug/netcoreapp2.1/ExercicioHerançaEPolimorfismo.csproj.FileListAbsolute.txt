@@ -1,0 +1,11 @@
+C:\Users\Matheus\source\repos\ExercicioHerançaEPolimorfismo\ExercicioHerançaEPolimorfismo\obj\Debug\netcoreapp2.1\ExercicioHerançaEPolimorfismo.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\ExercicioHerançaEPolimorfismo\ExercicioHerançaEPolimorfismo\obj\Debug\netcoreapp2.1\ExercicioHerançaEPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\ExercicioHerançaEPolimorfismo\ExercicioHerançaEPolimorfismo\obj\Debug\netcoreapp2.1\ExercicioHerançaEPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\ExercicioHerançaEPolimorfismo\ExercicioHerançaEPolimorfismo\obj\Debug\netcoreapp2.1\ExercicioHerançaEPolimorfismo.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\ExercicioHerançaEPolimorfismo\ExercicioHerançaEPolimorfismo\bin\Debug\netcoreapp2.1\ExercicioHerançaEPolimorfismo.deps.json
+C:\Users\Matheus\source\repos\ExercicioHerançaEPolimorfismo\ExercicioHerançaEPolimorfismo\bin\Debug\netcoreapp2.1\ExercicioHerançaEPolimorfismo.runtimeconfig.json
+C:\Users\Matheus\source\repos\ExercicioHerançaEPolimorfismo\ExercicioHerançaEPolimorfismo\bin\Debug\netcoreapp2.1\ExercicioHerançaEPolimorfismo.runtimeconfig.dev.json
+C:\Users\Matheus\source\repos\ExercicioHerançaEPolimorfismo\ExercicioHerançaEPolimorfismo\bin\Debug\netcoreapp2.1\ExercicioHerançaEPolimorfismo.dll
+C:\Users\Matheus\source\repos\ExercicioHerançaEPolimorfismo\ExercicioHerançaEPolimorfismo\bin\Debug\netcoreapp2.1\ExercicioHerançaEPolimorfismo.pdb
+C:\Users\Matheus\source\repos\ExercicioHerançaEPolimorfismo\ExercicioHerançaEPolimorfismo\obj\Debug\netcoreapp2.1\ExercicioHerançaEPolimorfismo.dll
+C:\Users\Matheus\source\repos\ExercicioHerançaEPolimorfismo\ExercicioHerançaEPolimorfismo\obj\Debug\netcoreapp2.1\ExercicioHerançaEPolimorfismo.pdb
