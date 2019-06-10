@@ -1,0 +1,11 @@
+C:\Users\Matheus\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\bin\Debug\netcoreapp2.1\ExercicioMetodosAbstratos.deps.json
+C:\Users\Matheus\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\bin\Debug\netcoreapp2.1\ExercicioMetodosAbstratos.runtimeconfig.json
+C:\Users\Matheus\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\bin\Debug\netcoreapp2.1\ExercicioMetodosAbstratos.runtimeconfig.dev.json
+C:\Users\Matheus\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\bin\Debug\netcoreapp2.1\ExercicioMetodosAbstratos.dll
+C:\Users\Matheus\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\bin\Debug\netcoreapp2.1\ExercicioMetodosAbstratos.pdb
+C:\Users\Matheus\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\netcoreapp2.1\ExercicioMetodosAbstratos.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\netcoreapp2.1\ExercicioMetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\netcoreapp2.1\ExercicioMetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\netcoreapp2.1\ExercicioMetodosAbstratos.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\netcoreapp2.1\ExercicioMetodosAbstratos.dll
+C:\Users\Matheus\source\repos\ExercicioMetodosAbstratos\ExercicioMetodosAbstratos\obj\Debug\netcoreapp2.1\ExercicioMetodosAbstratos.pdb
