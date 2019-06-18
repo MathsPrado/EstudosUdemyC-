@@ -1,0 +1,11 @@
+C:\Users\Matheus\Downloads\EstudosUdemyCsharp\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp2.1\ExercicioInterface.deps.json
+C:\Users\Matheus\Downloads\EstudosUdemyCsharp\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp2.1\ExercicioInterface.runtimeconfig.json
+C:\Users\Matheus\Downloads\EstudosUdemyCsharp\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp2.1\ExercicioInterface.runtimeconfig.dev.json
+C:\Users\Matheus\Downloads\EstudosUdemyCsharp\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp2.1\ExercicioInterface.dll
+C:\Users\Matheus\Downloads\EstudosUdemyCsharp\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp2.1\ExercicioInterface.pdb
+C:\Users\Matheus\Downloads\EstudosUdemyCsharp\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp2.1\ExercicioInterface.csprojAssemblyReference.cache
+C:\Users\Matheus\Downloads\EstudosUdemyCsharp\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp2.1\ExercicioInterface.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Downloads\EstudosUdemyCsharp\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp2.1\ExercicioInterface.AssemblyInfoInputs.cache
+C:\Users\Matheus\Downloads\EstudosUdemyCsharp\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp2.1\ExercicioInterface.AssemblyInfo.cs
+C:\Users\Matheus\Downloads\EstudosUdemyCsharp\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp2.1\ExercicioInterface.dll
+C:\Users\Matheus\Downloads\EstudosUdemyCsharp\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp2.1\ExercicioInterface.pdb
