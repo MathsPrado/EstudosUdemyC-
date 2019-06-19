@@ -1,2 +1,2 @@
 # EstudosUdemyC-
-Anotacoes de aula e exercicios...
+exercicios praticados em aula e anotações!
