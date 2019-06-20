@@ -1,0 +1,11 @@
+C:\Users\Matheus\source\repos\Exercicio Fixação aula 196 interface\Exercicio Fixação aula 196 interface\bin\Debug\netcoreapp2.1\Exercicio Fixação aula 196 interface.deps.json
+C:\Users\Matheus\source\repos\Exercicio Fixação aula 196 interface\Exercicio Fixação aula 196 interface\bin\Debug\netcoreapp2.1\Exercicio Fixação aula 196 interface.runtimeconfig.json
+C:\Users\Matheus\source\repos\Exercicio Fixação aula 196 interface\Exercicio Fixação aula 196 interface\bin\Debug\netcoreapp2.1\Exercicio Fixação aula 196 interface.runtimeconfig.dev.json
+C:\Users\Matheus\source\repos\Exercicio Fixação aula 196 interface\Exercicio Fixação aula 196 interface\bin\Debug\netcoreapp2.1\Exercicio Fixação aula 196 interface.dll
+C:\Users\Matheus\source\repos\Exercicio Fixação aula 196 interface\Exercicio Fixação aula 196 interface\bin\Debug\netcoreapp2.1\Exercicio Fixação aula 196 interface.pdb
+C:\Users\Matheus\source\repos\Exercicio Fixação aula 196 interface\Exercicio Fixação aula 196 interface\obj\Debug\netcoreapp2.1\Exercicio Fixação aula 196 interface.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\Exercicio Fixação aula 196 interface\Exercicio Fixação aula 196 interface\obj\Debug\netcoreapp2.1\Exercicio Fixação aula 196 interface.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\Exercicio Fixação aula 196 interface\Exercicio Fixação aula 196 interface\obj\Debug\netcoreapp2.1\Exercicio Fixação aula 196 interface.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\Exercicio Fixação aula 196 interface\Exercicio Fixação aula 196 interface\obj\Debug\netcoreapp2.1\Exercicio Fixação aula 196 interface.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\Exercicio Fixação aula 196 interface\Exercicio Fixação aula 196 interface\obj\Debug\netcoreapp2.1\Exercicio Fixação aula 196 interface.dll
+C:\Users\Matheus\source\repos\Exercicio Fixação aula 196 interface\Exercicio Fixação aula 196 interface\obj\Debug\netcoreapp2.1\Exercicio Fixação aula 196 interface.pdb
