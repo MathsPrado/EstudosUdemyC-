@@ -1,0 +1,12 @@
+/Users/matheus/Projects/ExemploFacadePattern/bin/Debug/netcoreapp3.1/ExemploFacadePattern.deps.json
+/Users/matheus/Projects/ExemploFacadePattern/bin/Debug/netcoreapp3.1/ExemploFacadePattern.runtimeconfig.json
+/Users/matheus/Projects/ExemploFacadePattern/bin/Debug/netcoreapp3.1/ExemploFacadePattern.runtimeconfig.dev.json
+/Users/matheus/Projects/ExemploFacadePattern/bin/Debug/netcoreapp3.1/ExemploFacadePattern.dll
+/Users/matheus/Projects/ExemploFacadePattern/bin/Debug/netcoreapp3.1/ExemploFacadePattern.pdb
+/Users/matheus/Projects/ExemploFacadePattern/obj/Debug/netcoreapp3.1/ExemploFacadePattern.csprojAssemblyReference.cache
+/Users/matheus/Projects/ExemploFacadePattern/obj/Debug/netcoreapp3.1/ExemploFacadePattern.AssemblyInfoInputs.cache
+/Users/matheus/Projects/ExemploFacadePattern/obj/Debug/netcoreapp3.1/ExemploFacadePattern.AssemblyInfo.cs
+/Users/matheus/Projects/ExemploFacadePattern/obj/Debug/netcoreapp3.1/ExemploFacadePattern.csproj.CoreCompileInputs.cache
+/Users/matheus/Projects/ExemploFacadePattern/obj/Debug/netcoreapp3.1/ExemploFacadePattern.dll
+/Users/matheus/Projects/ExemploFacadePattern/obj/Debug/netcoreapp3.1/ExemploFacadePattern.pdb
+/Users/matheus/Projects/ExemploFacadePattern/obj/Debug/netcoreapp3.1/ExemploFacadePattern.genruntimeconfig.cache
