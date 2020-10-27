@@ -1,2 +1,2 @@
 # EstudosCsharp
-exercicios praticados em aula e anotações!
+exercicios praticados em aula, anotações e exemplos para consulta!

@@ -3,11 +3,11 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="FornecedorPizza.cs">
     <Files>
       <File FileName="Program.cs" Line="15" Column="60" />
-      <File FileName="Interface/IPizza.cs" Line="8" Column="6" />
-      <File FileName="FornecedorPizza.cs" Line="14" Column="39" />
-      <File FileName="Interface/IPao.cs" Line="9" Column="1" />
-      <File FileName="FornecedorPao.cs" Line="25" Column="47" />
-      <File FileName="RestauranteFacade.cs" Line="29" Column="40" />
+      <File FileName="Interface/IPizza.cs" />
+      <File FileName="FornecedorPizza.cs" Line="10" Column="10" />
+      <File FileName="Interface/IPao.cs" />
+      <File FileName="FornecedorPao.cs" />
+      <File FileName="RestauranteFacade.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
